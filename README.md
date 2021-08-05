@@ -1,4 +1,4 @@
-## Skill Sample Python Smarthome Sandbox
+## AWS IoT Alexa Skill Backend Sample Python Sandbox
 
 This is Alexa skill sample code for showing how several areas of a Smart Home model come together to define and provide endpoint devices using Lambda, IoT Core, DynamoDB, and API Gateway services.
 
