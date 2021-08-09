@@ -1,4 +1,4 @@
-# Build an Alexa Smart Home Skill Sandbox
+# AWS IoT Alexa Skill Backend Sample Python Sandbox
 
 These instructions are to build a sample Alexa skill that uses AWS services to store properties of virtual devices. In the course of these instructions you will create the Alexa skill and supporting backend to handle the requests from Alexa and provide responses based on user input.
 
